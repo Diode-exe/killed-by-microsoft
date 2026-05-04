@@ -519,7 +519,7 @@
   {
     "dateClose": "2013-04-08",
     "dateOpen": "2003-08-19",
-    "description": "Microsoft Office Picture Manager (formely Microsoft Picture Library) was a raster graphics editor included up to Office 2010 to organize and edit images.",
+    "description": "Microsoft Office Picture Manager (formerly Microsoft Picture Library) was a raster graphics editor included up to Office 2010 to organize and edit images.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Office_Picture_Manager",
     "name": "Microsoft Office Picture Manager",
     "type": "app"
@@ -870,7 +870,7 @@
   {
     "dateClose": "2013-02-13",
     "dateOpen": "2010-09-30",
-    "description": "Windows Live Mesh (formerly known as Windows Live FolderShare, Live Mesh, and Windows Live Sync) was a file synchronization application supporting both direct PC-to-PC and cloud-based synchronizazion and featuring Remote Desktop capability through the browser.",
+    "description": "Windows Live Mesh (formerly known as Windows Live FolderShare, Live Mesh, and Windows Live Sync) was a file synchronization application supporting both direct PC-to-PC and cloud-based synchronization and featuring Remote Desktop capability through the browser.",
     "link": "https://en.wikipedia.org/wiki/Windows_Live_Mesh",
     "name": "Windows Live Mesh",
     "type": "app"
