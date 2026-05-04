@@ -15,7 +15,7 @@
 To add a product, gather the following information:
 
 - Name of Product (`name`) — the name of the product
-- Launch Date (`dateOpen`) — it should be the date of first release or at least the "beta" or when it is made avaialbe to the customer, do not confuse with the product's announcement
+- Launch Date (`dateOpen`) — it should be the date of first release or at least the "beta" or when it is made available to the customer, do not confuse with the product's announcement
 - Discontinued Date (`dateClose`) — it should be the date when the product is "no longer available for purchase" or, for web-based services, when the service stops its normal functioning. However, if it is not clear when an application was discontinued, you can use the date of the latest significant release (i.e., a release adding new features). This case is typical for old desktop applications.
 - Description (`description`) — a brief description of the product
 - Link (`link`) — relevant link to the source
@@ -86,7 +86,7 @@ Then, to create the production version:
 
 ## Acknowledgements
 
-Thanks to Cody Odgen, author and designer of the graveyard for the products [killed by Google](https://github.com/codyogden/killedbygoogle), that provides the skeleton for *Killed by Microsoft*.
+Thanks to Cody Ogden, author and designer of the graveyard for the products [killed by Google](https://github.com/codyogden/killedbygoogle), that provides the skeleton for *Killed by Microsoft*.
 
 ## Notes
 
