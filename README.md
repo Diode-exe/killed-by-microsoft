@@ -65,7 +65,8 @@ If you are not familiar with or do not want to use `git`, submit a [new issue](h
   }
 ```
 
-1. Finally, [create a Pull Request (PR)](https://help.github.com/en/articles/creating-a-pull-request) using the newly created branch (Important: DON'T use the `master` branch for the PR). Submit it with the necessary explanations.  
+``ignore``
+5. Finally, [create a Pull Request (PR)](https://help.github.com/en/articles/creating-a-pull-request) using the newly created branch (Important: DON'T use the `master` branch for the PR). Submit it with the necessary explanations.  
 
 For code contributions outside of `graveyard.json`, check out the [Contributing Guide](.github/CONTRIBUTING.md).
 
