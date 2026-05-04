@@ -61,9 +61,9 @@ If you are not familiar with or do not want to use `git`, submit a [new issue](h
     "name": "[Product Name]",
     "type": "app|service|os|hardware"
   }
-```
+  ```
 
-5. Finally, [create a Pull Request (PR)](https://help.github.com/en/articles/creating-a-pull-request) using the newly created branch (Important: DON'T use the `master` branch for the PR). Submit it with the necessary explanations.  
+1. Finally, [create a Pull Request (PR)](https://help.github.com/en/articles/creating-a-pull-request) using the newly created branch (Important: DON'T use the `master` branch for the PR). Submit it with the necessary explanations.  
 
 For code contributions outside of `graveyard.json`, check out the [Contributing Guide](.github/CONTRIBUTING.md).
 
@@ -71,18 +71,24 @@ For code contributions outside of `graveyard.json`, check out the [Contributing 
 
 Install Node v14.x.x (😢):
 
+```bash
     yarn install
     node bin/graveyard
     yarn dev
+```
 
 The script in bin/graveyard.js updates graveyard.json and copy it in proper directory.
 Jest is used to test the project and in particular to test the format of graveyard.json. To run it type:
 
+```bash
     yarn jest
+```
 
 Then, to create the production version:
 
+```bash
     yarn build
+```
 
 ## Acknowledgements
 
